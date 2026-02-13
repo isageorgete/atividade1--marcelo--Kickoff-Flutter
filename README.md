@@ -8,3 +8,4 @@ Projeto Flutter inicial com:
 - Tela inicial com AppBar
 
 Projeto desenvolvido para atividade de laboratório mobile.
+/**/
